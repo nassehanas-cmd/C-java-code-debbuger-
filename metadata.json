@@ -1,0 +1,6 @@
+{
+  "name": "C & Java Code Debugger",
+  "description": "A developer-friendly C and Java code debugger powered by Gemini that detects syntax, logical, and runtime/memory issues with explanations, diffs, and execution traces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
